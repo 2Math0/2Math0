@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Notary App](It's private 🤫)
+- 🔭 I’m currently working on [Notary App](It's private 🤫) and [Ecommerce app](https://github.com/Root-J/flutter-eccomerce-template)
 
 - 🌱 I’m currently learning **Django, Design Patterns, Algorithms and get more advanced in Flutter**
 

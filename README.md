@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Django, Design Patterns, Algorithms and get more advanced in Flutter**
 
+- Google Play Apps: [Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp)
+
 - 💬 Ask me about **Flutter and Python**
 
 - 📫 How to reach me **thomas.meshail@gmail.com**

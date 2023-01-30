@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [Notary App](It's private 🤫) and [Ecommerce app](https://github.com/Root-J/flutter-eccomerce-template)
+- 🔭 I’m currently working on [Notary App](It's private 🤫) and [Ecommerce app](https://github.com/Root-J/flutter-eccomerce-template) and [TodoList App](https://github.com/2Math0/my_fate)
 
 - 🌱 I’m currently learning **Django, Design Patterns, Algorithms and get more advanced in Flutter**
 
-- 💬 Ask me about **Flutter, Python**
+- 💬 Ask me about **Flutter and Python**
 
 - 📫 How to reach me **thomas.meshail@gmail.com**
 

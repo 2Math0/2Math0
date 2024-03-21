@@ -6,17 +6,17 @@
 
 
 
-- 🔭 I’m currently working on [Notary App](It's private 🤫) and [Ecommerce app](https://github.com/Root-J/flutter-eccomerce-template) and [TodoList App](https://github.com/2Math0/my_fate)
+- 🔭 I’m currently Learning to Build App like Game with Flutter
 
-- 🌱 I’m currently learning **Django, Design Patterns, Algorithms and get more advanced in Flutter**
+- 🌱 I’m currently learning **Django, Design Patterns, Algorithms and getting more advanced in Flutter**
 
 - Google Play Apps: [Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp)
 
-- 💬 Ask me about **Flutter and Python**
+- 💬 Ask me about **Flutter, Python and AWS**
 
 - 📫 How to reach me **thomas.meshail@gmail.com**
 
-- ⚡ Fun fact **C++ still considered a high level programming language**
+- ⚡ Fun fact **C++ is still considered a high-level programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

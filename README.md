@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Meshail</h1>
-<h3 align="center">A passionate software developer self learner</h3>
+<h3 align="center">An Experienced software developer self learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2math0&label=Profile%20views&color=0e75b6&style=flat" alt="2math0" /> </p>
 <p align="center"> <img src="https://www.codewars.com/users/2Math0/badges/large" alt="2math0" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, Design Patterns, Algorithms and getting more advanced in Flutter**
 
-- Google Play Apps: [Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp)
+- Google Play Apps: [Speed Service](https://play.google.com/store/apps/details?id=com.glow.speed_service) ,[Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp), 
 
 - 💬 Ask me about **Flutter, Python and AWS**
 

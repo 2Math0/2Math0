@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently Learning to Build App like Game with Flutter
+- 🔭 I’m currently Learning to Build Apps with Swift
 
 - 🌱 I’m currently learning **Django, Design Patterns, Algorithms and getting more advanced in Flutter**
 
-- Google Play Apps: [Speed Service](https://play.google.com/store/apps/details?id=com.glow.speed_service) ,[Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp), 
+- Google Play Apps: [Speed Service](https://play.google.com/store/apps/details?id=com.glow.speed_service) ,[Cozy Snippets](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp), more but wont tell you about here ;)
 
 - 💬 Ask me about **Flutter, Python and AWS**
 
